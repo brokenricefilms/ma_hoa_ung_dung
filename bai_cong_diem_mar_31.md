@@ -12,6 +12,8 @@ plaintext:
 01110111
 10001000
 
+IP:
+
 Bài 2:trình bày sự biến đổi của plaintext ở round 4,5,6 với đầu vào
 plaintext:1122334455667788(HEX), key:752878397493CB70
 
